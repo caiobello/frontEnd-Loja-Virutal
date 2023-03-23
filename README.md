@@ -1,12 +1,12 @@
-<h1 align="center">Rascunho de uma Loja de Assinaturas de Cervejas</h1>
-
-
+<h1 align="center">Rascunho Inicial para Loja Virutal</h1>
 
 ## Assuntos abordados no projeto
 
-Projeto de assinaturas, desenvolvido com responsividade para diferentes tamanhos de tela através da Media Query.
+Projeto de loja online em HTML e CSS. 
+Desenvolvido aplicando o processo de criação "Mobile First".
 
 Sinta-se à vontade para explorar as possibilidades e personalizar este projeto de acordo com suas necessidades e objetivos. Espero que esta experiência seja enriquecedora e que você possa aproveitar deste projeto.
+
 
 ## Tecnologias utilizadas no projeto
 * HTML
