@@ -1,0 +1,64 @@
+hr{
+    margin: 0;
+}
+
+.rodape {
+        background-color: (--cor-branco);
+    padding: 1em;
+}
+
+.rodape__titulo__final{
+    text-align: center;
+    font-size: 0.9em;
+    padding: 1em;
+}
+
+.rodape {
+    font-size: 1.2em;
+    display: none;
+    color: var(--cor-cinza);
+}
+
+@media screen and (min-width: 1024px) {
+    .rodape{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.lista-rodape__titulo{
+        padding: 0 0 1em 0;
+        color: var(--cor-cinza);
+}
+
+/* Alinha o logo e palavra */
+.lista-rodape__item {
+    padding: 0 0 1em 0;
+    display: flex;
+    align-items: center;
+}
+
+.lista-rodape__link{
+    color: var(--cor-cinza);
+    text-decoration: none;
+    margin: 0 0 0 0.9em;
+}
+
+.lista-rodape__link:hover {
+    color: var(--cor-laranja);
+    }
+
+}
+
+@media screen and (min-width: 1728px) {
+    .lista-rodape {
+        border-left: 1px solid var(--cor-cinza);
+        padding-left: 1em;
+    }
+    .rodape {
+        padding: 2em 0;
+        font-size: 1em;
+    }
+
+
+}
