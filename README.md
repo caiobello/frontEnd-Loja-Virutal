@@ -1,4 +1,4 @@
-<h1 align="center">Rascunho de uma Loja Virutal</h1>
+<h1 align="center">Front End de uma Loja Virutal</h1>
 
 ## Assuntos abordados no projeto
 
