@@ -12,4 +12,4 @@ Sinta-se à vontade para explorar as possibilidades e personalizar este projeto 
 * HTML
 * CSS
 
-## Dev. Caio Bello 
+### Dev. Caio Bello 
